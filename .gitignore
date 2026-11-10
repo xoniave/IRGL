@@ -1,0 +1,25 @@
+# Unity projects
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Ll]ogs/
+**/[Uu]ser[Ss]ettings/
+**/[Bb]uild/
+**/[Bb]uilds/
+**/.vs/
+**/.idea/
+**/.plastic/
+**/*_BurstDebugInformation_DoNotShip/
+**/*_BackUpThisFolder_ButDontShipItWithYourGame/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+.DS_Store
+Thumbs.db
